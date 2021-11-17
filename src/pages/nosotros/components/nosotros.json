@@ -1,0 +1,38 @@
+[
+    {
+        "img":"personal1@2x.webp",
+        "name":"Juan Manuel Gomez",
+        "imgSeparador":"separador.png",
+        "cargo":"Chef Ejecutivo"
+    },
+    {
+        "img":"personal2@2x.webp",
+        "name":"Ana Isabel Casallas",
+        "imgSeparador":"separador.png",
+        "cargo":"Chef Pastelera"
+    },
+    {
+        "img":"personal3@2x.webp",
+        "name":"Maria Paulina Veloza",
+        "imgSeparador":"separador.png",
+        "cargo":"Administradora"
+    },
+    {
+        "img":"juan.webp",
+        "name":"Juan Fernando Naranjo",
+        "imgSeparador":"separador.png",
+        "cargo":"Desarrollador Web"
+    },
+    {
+        "img":"jhonny.webp",
+        "name":"Jhonnyer Otalvaro",
+        "imgSeparador":"separador.png",
+        "cargo":"Desarrollador Web"
+    },
+    {
+        "img":"brayan.webp",
+        "name":"Brayan Obispo Torres",
+        "imgSeparador":"separador.png",
+        "cargo":"Desarrollador Web"
+    }
+]

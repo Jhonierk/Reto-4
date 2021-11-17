@@ -1,0 +1,27 @@
+/*Css Home*/
+
+.proposal {
+  background-image: url("../../assets/foto2@2x.webp");
+  background-size: cover;
+  background-position: bottom;
+  height: 700px;
+  padding-top: 100px;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+.menu {
+  width: 250px;
+  height: 200px;
+  margin-bottom: 120px;
+}
+
+.home-btn {
+  color: #fff !important;
+  background-color: #760622 !important;
+}
+
+.home-btn :hover {
+  text-decoration: none;
+  color: #fff !important;
+}

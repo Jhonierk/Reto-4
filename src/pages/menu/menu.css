@@ -1,0 +1,99 @@
+/* Css de Title */
+.mg-title {
+    margin-top: 7rem;
+  }
+  
+  .menu-title {
+    color: #760622;
+    font-size: 80px !important;
+    font-family: Oswald;
+  }
+  
+  .menu-title-div {
+    flex-grow: 1;
+  }
+  
+  .btn-menu {
+    background-color: rgb(255 58 3);
+    color: #fff;
+  }
+  
+  .btn-menu:hover {
+    color: #fff;
+  }
+  
+  .card-n {
+    background-color: rgb(255 58 3);
+  }
+  
+  .card-v {
+    background-color: #760622;
+  }
+  
+  @media (max-width: 600px) {
+    .menu-row-title {
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .card-v {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  
+    .card-n {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+  
+  .img-card {
+    height: 226px;
+  }
+  
+ 
+
+
+
+
+
+
+  .pedido-title {
+    color: #760622;
+    font-size: 80px !important;
+    font-family: Oswald;
+  }
+  
+  .pedido-plate {
+    color: #760622;
+    font-family: Oswald;
+  }
+  
+  .pedido-plate,
+  .value {
+    color: #760622;
+    font-family: Oswald;
+  }
+  
+  .w-33 {
+    width: 33% !important;
+  }
+  
+  .btn-cal {
+    font-size: 20px;
+  }
+  
+  .pedido-input {
+    width: 38px;
+  }
+  
+  .pedido-btn-add {
+    background-color:#ff3a03 !important;
+    color: #fff !important;
+    height: 40px !important;
+  }
+  
+  .pedido-btn-add i {
+    line-height: inherit !important;
+  }
+
+  /* Css de Dish */

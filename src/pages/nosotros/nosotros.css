@@ -1,0 +1,106 @@
+.mg-title {
+  margin-top: 7rem;
+}
+
+.nosotros-subtitle{
+  color:#ff3a03 !important;
+  margin-left: 175px;
+  position: absolute;
+}
+
+.nosotros-title {
+  color: #760622;
+  font-size: 80px !important;
+  font-family: Oswald;
+}
+.img-nosotros {
+  width: 100%;
+  height: 500px;
+}
+
+.history .text-h4 {
+  position: absolute;
+  top: 180px;
+  left: 1100px;
+  color: #d0721f;
+  font-size: x-large;
+}
+.history .text-h1 {
+  position: absolute;
+  top: 200px;
+  left: 1000px;
+  color: #760622;
+  font-size: 200px;
+  font-family: Oswald;
+}
+.history .text {
+  position: absolute;
+  top: 300px;
+  left: 1000px;
+  color: #760622;
+  font-family: Roboto;
+}
+
+.history p {
+  text-align: left;
+}
+
+.personal {
+  background-color: #a38c8c;
+}
+
+.personal h4,
+.text {
+  text-align: center;
+  color: #7c3535;
+  font-family: Oswald;
+}
+
+.personal .separador {
+  width: 300px;
+  height: 40px;
+}
+
+.pie .title1-us {
+  position: absolute;
+  top: 2110px;
+  left: 700px;
+  color: white;
+  font-family: Oswald;
+}
+
+.pie .title2-us {
+  position: absolute;
+  top: 2110px;
+  left: 850px;
+  color: white;
+  font-family: Oswald;
+}
+
+.pie .title3-us {
+  position: absolute;
+  top: 2110px;
+  left: 1000px;
+  color: white;
+  font-family: Oswald;
+}
+
+.pie .info1-us {
+  position: absolute;
+  top: 2160px;
+  left: 700px;
+  color: white;
+}
+
+.pie .info2-us {
+  position: absolute;
+  top: 2230px;
+  left: 700px;
+  color: white;
+}
+
+.pie .map-us {
+  position: absolute;
+  top: 480px;
+  left: 550px;
+}

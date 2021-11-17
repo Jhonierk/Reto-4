@@ -1,0 +1,41 @@
+[
+    {  
+        "id":"1",
+        "img":"menu1@2x.webp",
+        "nombre":"Comida 1",
+        "descripcion":"Ullamco ut incididunt irure ad do eiusmod labore tempor pariatur consectetur. Incididunt ad occaecat consectetur cupidatat eu aliquip tempor enim esse. Aute do mollit aliqua sit anim occaecat sunt adipisicing et minim culpa non laborum ullamco.",
+        "precio":"48.000"
+    },
+
+    {  
+        "id":"2",
+        "img":"menu2@2x.webp",
+        "nombre":"Comida 2",
+        "descripcion":"Ullamco ut incididunt irure ad do eiusmod labore tempor pariatur consectetur. Incididunt ad occaecat consectetur cupidatat eu aliquip tempor enim esse. Aute do mollit aliqua sit anim occaecat sunt adipisicing et minim culpa non laborum ullamco.",
+        "precio":"48.000"
+    },
+
+    {  
+        "id":"3",
+        "img":"menu3@2x.webp",
+        "nombre":"Comida 3",
+        "descripcion":"Ullamco ut incididunt irure ad do eiusmod labore tempor pariatur consectetur. Incididunt ad occaecat consectetur cupidatat eu aliquip tempor enim esse. Aute do mollit aliqua sit anim occaecat sunt adipisicing et minim culpa non laborum ullamco.",
+        "precio":"48.000"
+    },
+
+    {  
+        "id":"4",
+        "img":"menu4@2x.webp",
+        "nombre":"Comida 4",
+        "descripcion":"Ullamco ut incididunt irure ad do eiusmod labore tempor pariatur consectetur. Incididunt ad occaecat consectetur cupidatat eu aliquip tempor enim esse. Aute do mollit aliqua sit anim occaecat sunt adipisicing et minim culpa non laborum ullamco.",
+        "precio":"48.000"
+    },
+
+    {  
+        "id":"5",
+        "img":"menu5@2x.webp",
+        "nombre":"Comida 5",
+        "descripcion":"Ullamco ut incididunt irure ad do eiusmod labore tempor pariatur consectetur. Incididunt ad occaecat consectetur cupidatat eu aliquip tempor enim esse. Aute do mollit aliqua sit anim occaecat sunt adipisicing et minim culpa non laborum ullamco.",
+        "precio":"48.000"
+    }
+]

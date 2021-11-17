@@ -1,0 +1,10 @@
+/*Css Mapa*/
+
+.text-color a{
+    color: #760622;
+}
+
+.text-color a:hover {
+    text-decoration: none;
+    color: #760622;
+}

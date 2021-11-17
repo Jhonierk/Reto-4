@@ -1,0 +1,40 @@
+.title {
+  color: #760622;
+  font-family: Oswald;
+  font-size: 6rem;
+}
+
+.text {
+  text-align: left;
+  font-family: Roboto;
+  color: #7c3535;
+}
+
+.my-7 {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.px-7 {
+  padding-right: 5rem !important;
+  padding-left: 5rem !important;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  color: #91908b;
+  background-color: #dfded9;
+}
+
+.btn-orange {
+  color: #fff !important;
+  background-color: #ff3c04 !important;
+  border-color: #ff3c04 !important;
+}
+
+.btn-orange:hover {
+  color: #fff;
+  background-color: #801e03;
+  border-color: #400f01;
+}
