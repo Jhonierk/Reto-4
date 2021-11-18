@@ -39,12 +39,10 @@ export default function contactanos() {
                 <option value="" defaultValue>
                   Seleccione el servicio
                 </option>
-                <option value={1}>Celebración de cumpleaños</option>
-                <option value={2}>Aniversarios</option>
-                <option value={3}>Fiestas infantiles</option>
-                <option value={4}>Declaraciones o propuestas</option>
-                <option value={5}>Despedidas</option>
-                <option value={6}>Cenas con amigos</option>
+                <option value={1}>Preguntas</option>
+                <option value={2}>Sugerecias</option>
+                <option value={3}>PQRS</option>
+                
               </select>
             </div>
             <div className="form-group">

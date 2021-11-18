@@ -1,39 +1,38 @@
-[
-    {
-        "img":"service1.webp",
-        "titulo":"servicio 1",
-        "descripcion":"Some quick example text to build on the card title and make up the bulk of the card's content."
+[{
+        "img": "service1.webp",
+        "titulo": "Cumpleaños",
+        "descripcion": "Some quick example text to build on the card title and make up the bulk of the card's content."
 
     },
 
     {
-        "img":"service2.webp",
-        "titulo":"servicio 2",
-        "descripcion":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        "img": "service2.webp",
+        "titulo": "Aniversario",
+        "descripcion": "Some quick example text to build on the card title and make up the bulk of the card's content."
 
     },
     {
-        "img":"service3.webp",
-        "titulo":"servicio 3",
-        "descripcion":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        "img": "service3.webp",
+        "titulo": "Reuniones",
+        "descripcion": "Some quick example text to build on the card title and make up the bulk of the card's content."
 
     },
     {
-        "img":"service4.webp",
-        "titulo":"servicio 4",
-        "descripcion":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        "img": "service4.webp",
+        "titulo": "Propuestas o delclaraciones",
+        "descripcion": "Some quick example text to build on the card title and make up the bulk of the card's content."
 
     },
     {
-        "img":"service5.webp",
-        "titulo":"servicio 5",
-        "descripcion":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        "img": "service5.webp",
+        "titulo": "Cenas con amigos",
+        "descripcion": "Some quick example text to build on the card title and make up the bulk of the card's content."
 
     },
     {
-        "img":"service6.webp",
-        "titulo":"servicio 6",
-        "descripcion":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        "img": "service6.webp",
+        "titulo": "Fiestas infantiles",
+        "descripcion": "Some quick example text to build on the card title and make up the bulk of the card's content."
 
     }
 ]
